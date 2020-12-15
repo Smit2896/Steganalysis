@@ -9,11 +9,14 @@ Steganography   is   a   combination   of   two   words “steganos”  and  “
 #### Environment and Setup
 We have use Google Cloud Platform's Compute Engine Instances and Jupyter Notebook.
 
-#### Experimetnts
-1). [SRNet](https://github.com/Smit2896/Steganalysis/blob/main/SRNet.ipynb) <br>
+#### Contents
+1). [Dataset](https://github.com/Smit2896/Steganalysis/blob/main/Data_Exploration.ipynb)
+- Explores the dataset
+
+2). [SRNet](https://github.com/Smit2896/Steganalysis/blob/main/SRNet.ipynb) <br>
 - On unbalanced 400 cover + stego images <br>
 - 10 hours
-<br>
-2). [SRNet #2](https://github.com/Smit2896/Steganalysis/blob/main/SRNet_2.ipynb) <br>
+
+3). [SRNet_#2](https://github.com/Smit2896/Steganalysis/blob/main/SRNet_2.ipynb) <br>
 - On balanced 400 cover + stego images <br>
 - 18 hours
