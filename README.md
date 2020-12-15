@@ -14,9 +14,9 @@ We have use Google Cloud Platform's Compute Engine Instances and Jupyter Noteboo
 - Explores the dataset
 
 2). [SRNet](https://github.com/Smit2896/Steganalysis/blob/main/SRNet.ipynb) <br>
-- On unbalanced 400 cover + stego images <br>
+- Trained on 400 - 256x256 unbalanced cover + stego images <br>
 - 10 hours
 
 3). [SRNet_#2](https://github.com/Smit2896/Steganalysis/blob/main/SRNet_2.ipynb) <br>
-- On balanced 400 cover + stego images <br>
+- Trained on 400 - 256x256 balanced cover + stego images  <br>
 - 18 hours
